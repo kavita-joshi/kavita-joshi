@@ -1,4 +1,4 @@
-###Data Science/Machine Learning enthusiast## with the ability to solve numerous problems based on various types of data.
+***Data Science/Machine Learning enthusiast*** with the ability to solve numerous problems based on various types of data.
 **Skilled in Mathematical Modeling, octave, Python, Probability Theory, and Analytical Skills(Pandas, Matplotlib, Numpy, Decision Tree and random forecast, seaborn, etc)**.
 
 [LinkedIn](https://www.linkedin.com/in/kavita-joshi-97aa0917b/)
