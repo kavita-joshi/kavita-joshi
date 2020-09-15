@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as an part-time-intern in **The Spark Foundation**.
 - 🌱 I’m currently learning about **Tableau and OpenCV.**
-- 👯 I’m looking to collaborate on **NLP and ML related projects***.
+- 👯 I’m looking to collaborate on **NLP and ML related projects**.
 - 🤔 I’m looking for help in how to deploy **Machine Learning Projects**
 - 💬 Ask me about **Machine Learning Algorithms, Attention Model, Neural Network, Statistical Modelling, Probability.**
 - 📫 You can contact me via email- ***kavitajoshi9411@gmail.com****
