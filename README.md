@@ -11,5 +11,5 @@
 - 💬 Ask me about **Machine Learning Algorithms, Attention Model, Neural Network, Statistical Modelling, Probability.**
 - 📫 You can contact me via email- ***kavitajoshi9411@gmail.com****
 - 😄 Pronouns: you can call me with anything, whatever you likes
-- ⚡ Fun fact: I can make you ***smile***.:[smile]:
+- ⚡ Fun fact: I can make you ***smile***
 -->
