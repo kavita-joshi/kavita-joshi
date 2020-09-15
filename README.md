@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **NLP and ML related projects**.
 - 🤔 I’m looking for help in how to deploy **Machine Learning Projects**
 - 💬 Ask me about **Machine Learning Algorithms, Attention Model, Neural Network, Statistical Modelling, Probability.**
-- 📫 You can contact me via email- ***kavitajoshi9411@gmail.com****
+- 📫 You can contact me via email- ***kavitajoshi9411@gmail.com***
 - 😄 Pronouns: you can call me with anything, whatever you likes
 - ⚡ Fun fact: I can make you ***smile***
 -->
