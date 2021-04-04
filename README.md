@@ -4,7 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/kavita-joshi-97aa0917b/)
 [Instagram](https://www.instagram.com/kavitajoshi14/?hl=en)
 
-- 🔭 I’m currently working as an part-time-intern in **The Spark Foundation**.
+- 🔭 I’m currently working as an part-time-intern in **ARTENAL**.
 - 🌱 I’m currently learning about **Tableau and OpenCV.**
 - 👯 I’m looking to collaborate on **NLP and ML related projects**.
 - 🤔 I’m looking for help in how to deploy **Machine Learning Projects**
